@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "6e63b3bb2e0be9f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f7dbd9c253cbaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4239a1c04fbf9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCSA/AD services (active directory)/5-windows sharing/5.3-offline sharing(Client-side-cashing) ..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3-offline sharing(Client-side-cashing) ."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "169a738e46837086",
+    "type": "split",
+    "children": [
+      {
+        "id": "21c4f012362f780a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b28a87ce151f5c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7c2a5cc7a2d64f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a125845d6bc4da5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 812.5
+  },
+  "right": {
+    "id": "883b89da2d0ebf1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b6c1b00912a7810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f158d6d07f38335e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NTDS partitions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for NTDS partitions"
+            }
+          },
+          {
+            "id": "b57c53e018a78e78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NTDS partitions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NTDS partitions"
+            }
+          },
+          {
+            "id": "6e53dd2e4e5c667f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "859ab8c04f5efaa4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f03e25757cf3996a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NTDS partitions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NTDS partitions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fc4239a1c04fbf9f",
+  "lastOpenFiles": [
+    "MCSA/AD services (active directory)/5-windows sharing/5.5-WDS (windows deployment server).md",
+    "MCSA/AD services (active directory)/5-windows sharing/5.1-Disk management.md",
+    "MCSA/AD services (active directory)/4-security & VPN Tunnels/4.4-site-to-site vpn.md",
+    "MCSA/AD services (active directory)/4-security & VPN Tunnels/4.3-firewall.md",
+    "MCSA/AD services (active directory)/4-security & VPN Tunnels/4.2- ifm (install from media).md",
+    "MCSA/AD services (active directory)/4-security & VPN Tunnels/4.1-VPN 4 pillars.md",
+    "MCSA/AD services (active directory)/3-Networking infrastructure/3.3-Routing.md",
+    "MCSA/AD services (active directory)/2-Active directory/2.12-sam file.md",
+    "MCSA/AD services (active directory)/2-Active directory/2.11-RDP (remote desktop protocol).md",
+    "MCSA/AD services (active directory)/2-Active directory/2.10-NTDS.dit(new technology directory services) partitions.md",
+    "MCSA/AD services (active directory)/2-Active directory/2.9-group policy.md",
+    "MCSA/AD services (active directory)/2-Active directory/2.8-delegation of administration.md",
+    "MCSA/AD services (active directory)/2-Active directory/2.6-AD domains and trusts.md",
+    "MCSA/AD services (active directory)/2-Active directory/2.5-RODC (Read only domain controller).md",
+    "MCSA/AD services (active directory)/2-Active directory/2.4-DC promotion (AD DS TO DC).md",
+    "MCSA/AD services (active directory)/2-Active directory/2.1-DNS Naming Basics (FQDN, Prefix, Suffix).md",
+    "MCSA/AD services (active directory)/5-windows sharing/5.4-shadow copy.md",
+    "MCSA/AD services (active directory)/5-windows sharing/5.5-WSUS (windows server update service).md",
+    "MCSA/AD services (active directory)/5-windows sharing/5.3-offline sharing(Client-side-cashing) ..md",
+    "attachments/Pasted image 20260317054050.png",
+    "attachments/Pasted image 20260317053843.png",
+    "attachments/Pasted image 20260317053738.png",
+    "attachments/Pasted image 20260317053705.png",
+    "attachments/Pasted image 20260317053526.png",
+    "attachments/Pasted image 20260317052958.png",
+    "attachments/Pasted image 20260317052856.png",
+    "attachments/Pasted image 20260317052822.png",
+    "attachments/Pasted image 20260317052810.png",
+    "attachments/Pasted image 20260317051928.png",
+    "MCSA/AD services (active directory)/5-windows sharing/5.2- share permission & NFTS (Security).md",
+    "MCSA/AD services (active directory)/3-Networking infrastructure/3.2-DHCP(dynamic host configuration protocol).md",
+    "MCSA/AD services (active directory)/3-Networking infrastructure/3.1-DNS(domain Name services tcp 53).md",
+    "MCSA/AD services (active directory)/2-Active directory/2.7-child domain.md",
+    "MCSA/AD services (active directory)/2-Active directory/2.3 - mmc (microsoft management console).md",
+    "MCSA/AD services (active directory)/2-Active directory/2.2- Forest & users & group management & OU (organization unit).md",
+    "MCSA/AD services (active directory)/1-Windows Server Basics/1.1-minimal & core installation.md",
+    "Untitled.canvas",
+    "MCSA/AD services (active directory)/1-Windows Server Basics",
+    "MCSA/AD services (active directory)/1.1-Windows server basics",
+    "Attachments",
+    "MCSA/AD services (active directory)/5-windows sharing",
+    "MCSA/AD services (active directory)/4-security & VPN Tunnels",
+    "MCSA/AD services (active directory)/3-Networking infrastructure",
+    "MCSA/AD services (active directory)/2-Active directory",
+    "MCSA/AD services (active directory)/Untitled/1-windows server basics",
+    "attachments",
+    "attachments/attachments"
+  ]
+}
